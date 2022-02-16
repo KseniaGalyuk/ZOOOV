@@ -1588,7 +1588,7 @@ body._lock {
   display: block;
   width: 16px;
   height: 16px;
-  background: url(../../img/contacts/Vector.svg) no-repeat;
+  background: url(../img/contacts/Vector.svg) no-repeat;
   background-position: center;
   position: absolute;
   left: 0;
@@ -1728,7 +1728,7 @@ body._lock {
   display: block;
   width: 16px;
   height: 16px;
-  background: url(../../img/contacts/Vector.svg) no-repeat;
+  background: url(../img/contacts/Vector.svg) no-repeat;
   background-position: center;
   position: absolute;
   left: 0;
@@ -1909,7 +1909,7 @@ body._lock {
   content: "";
   width: 15px;
   height: 8px;
-  background: url(../../img/popup/arrow.svg) no-repeat;
+  background: url(../img/popup/arrow.svg) no-repeat;
   background-position: center;
   position: absolute;
   top: 50%;
