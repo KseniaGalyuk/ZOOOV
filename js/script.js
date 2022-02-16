@@ -521,6 +521,8 @@ function popupOpenMini(curentPopup) { //В скобках попап, котор
 				e.stopPropagation();
 				e.preventDefault();
 				popupCloseMini(e.target.closest('.popup-mini'));
+			} else if (e.target.closest('.popup-mini')) {
+				e.stopPropagation();
 			}
 		});
 		setTimeout(popupCloseMini, 7000, curentPopup);
